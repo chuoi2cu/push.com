@@ -10,8 +10,8 @@ var config = {
     appId: "1:631853284217:web:f93fe81e904bba33b6cda8",
     measurementId: "G-HDSS8P85JY"
   };
-firebase.initializeApp(config);
-
+  firebase.initializeApp(config);
+  
 const messaging = firebase.messaging();
 messaging.setBackgroundMessageHandler(function(payload) {
   //console.log(payload);
@@ -33,6 +33,7 @@ messaging.setBackgroundMessageHandler(function(payload) {
     event.waitUntil(clients.openWindow(event.notification.data.url));
   });
 });
+
 
 
 // [END background_handler]

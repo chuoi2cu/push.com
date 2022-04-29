@@ -27,7 +27,7 @@ $fields = array
 (   
     //'to'  => 'e_wsRZleFV9WxgUmB5nEN4:APA91bHiZRMrODIX0lr8JcMR2NSQP0QfcDNs89oxJWS6JMPrvCUx4tQLIGHbRO4JPWVo_n7PjcgJNUzsGSAkIwvH_o2oA-IxkkxL_5VvQ-tnUtE9ZpHxe_0s16V3w6hiGzKUbfhvRyNv',
     'registration_ids' => array(
-    "cH7ketbFRtiLCoPh2d9-sI:APA91bHOOn8tnxG2f3dI4xc0g-7cUbRXX0kDCt0XsOjGVKQwG_DXj5s-uhSfE3wus-xKLJJ8p0PbZC__3i3WnfCXzEWzmb1lPe6ZmRcz4GE42qLm-6mJWQ2vRAo_upEhVTtYjAQjMJkb"
+    "cH7ketbFRtiLCoPh2d9-sI:APA91bH_cXxR72CPjR0OApBnHt5dnNnKLRzzj4uqKrbLnSz2ItzuIvzbpbJsPN4vr4a9S19bpfxFKtsF4OmL11dIWE5S11nz2hRcL01BwsOB8i6HLqz3FhgUtFKh9OpVjvTNP08J_zH0"
                             ),
     'priority' => 'high',
     'notification' => array(
